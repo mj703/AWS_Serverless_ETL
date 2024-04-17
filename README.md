@@ -6,8 +6,7 @@ This project involves building a data engineering pipeline on AWS cloud using va
 
 ## Project Architecture 
 
-![Project Architecture Diagram](architecture_diagram.gif)
-
+![Project Architecture Diagram](architecture_diagram_updated.gif)
 
 ## Project Steps
 
